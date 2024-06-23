@@ -11,9 +11,9 @@
 	
   <test thread-count="5" name="Test">
     <classes>
-      <!--class name="testCases.AccountRegistrationTest"/-->
-     <!--  <class name="testCases.LoginTest"/>-->
-     <class name="testCases.LoginDDT"></class>
+      <class name="testCases.AccountRegistrationTest"/>
+       <class name="testCases.LoginTest"/>
+    <!-- <class name="testCases.LoginDDT"></class>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
