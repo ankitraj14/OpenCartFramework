@@ -13,6 +13,7 @@
     <classes>
       <class name="testCases.AccountRegistrationTest"/>
        <class name="testCases.LoginTest"/>
+       <class name="testCases.NewsLetterSubsTest"/>
     <!-- <class name="testCases.LoginDDT"></class>-->
     </classes>
   </test> <!-- Test -->
